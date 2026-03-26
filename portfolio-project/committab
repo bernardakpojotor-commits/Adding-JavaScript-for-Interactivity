@@ -1,0 +1,17 @@
+# Navigate to your project folder
+cd portfolio-project
+
+# Initialize git repository
+git init
+
+# Add all files
+git add .
+
+# First commit
+git commit -m "Initial portfolio with HTML, CSS, and JavaScript structure"
+
+# Add remote repository (replace with your GitHub URL)
+git remote add origin https://github.com/bernardakpojotor-commits/Adding-JavaScript-for-Interactivity.git
+
+# Push to GitHub
+git push -u origin main
